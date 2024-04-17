@@ -6350,7 +6350,8 @@
 															"    }\r",
 															"});\r",
 															"\r",
-															"/*Testing changes to tests and how they get pushed to the repo.*/"
+															"/*Testing changes to tests and how they get pushed to the repo.*/\r",
+															"/*And this is an additional change and subsequesnt push*/"
 														],
 														"type": "text/javascript",
 														"packages": {}
